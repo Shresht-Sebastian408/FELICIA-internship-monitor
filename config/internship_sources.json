@@ -1,0 +1,53 @@
+{
+  "sources": [
+    {
+      "key": "simplify_2027",
+      "name": "SimplifyJobs Summer 2027",
+      "repo": "SimplifyJobs/Summer2027-Internships",
+      "branch": "dev",
+      "path": ".github/scripts/listings.json",
+      "adapter": "listings_json",
+      "enabled": true,
+      "max_age_days": 21,
+      "notes": "Highest volume source, ~98 new active roles/day. date_posted is reliable here."
+    },
+    {
+      "key": "vansh_2027",
+      "name": "vanshb03 Summer 2027",
+      "repo": "vanshb03/Summer2027-Internships",
+      "branch": "dev",
+      "path": ".github/scripts/listings.json",
+      "adapter": "listings_json",
+      "enabled": true,
+      "max_age_days": 21,
+      "notes": "Disjoint id space from Simplify, so cross-source dedupe relies on the company+title fingerprint."
+    },
+    {
+      "key": "underclassmen",
+      "name": "Underclassmen Opportunities",
+      "repo": "Jose-Gael-Cruz-Lopez/underclassmen-opportunities",
+      "branch": "main",
+      "path": ".github/scripts/listings.json",
+      "adapter": "listings_json",
+      "enabled": true,
+      "max_age_days": null,
+      "notes": "Scholarships, programs and research for first/second years. Entries carry old date_posted values even when freshly added, so no age guard is applied here."
+    }
+  ],
+  "filters": {
+    "require_active": true,
+    "require_visible": true
+  },
+  "delivery": {
+    "max_messages_per_run": 12,
+    "seconds_between_messages": 3.5,
+    "overflow_as_summary": true,
+    "guarantee_per_domain": 1
+  },
+  "classification": {
+    "enabled": true,
+    "batch_size": 20,
+    "max_batches_per_run": 6,
+    "min_relevance_to_notify": 0
+  }
+}

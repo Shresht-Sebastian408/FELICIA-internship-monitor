@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+venv/
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+data/internships/archive/*.json
+!data/internships/.gitkeep
+!data/internships/archive/.gitkeep
