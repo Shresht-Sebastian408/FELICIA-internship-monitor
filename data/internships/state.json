@@ -2,12 +2,12 @@
   "version": 1,
   "seeded": true,
   "seeded_at": "2026-09-09T04:40:42+00:00",
-  "last_run_at": "2026-10-24T23:32:41+00:00",
-  "runs": 252,
+  "last_run_at": "2026-10-25T03:32:51+00:00",
+  "runs": 253,
   "announced_total": 4026,
   "etags": {
-    "simplify_2027": "W/\"7438e676ea2775d88858955b9bebdcff89023adc727fdc47b1def571637412e9\"",
-    "vansh_2027": "W/\"f4b467b1d38a9f469555075559a4262e1280d0e539d1aa21282d4092e81de556\"",
+    "simplify_2027": "W/\"c3e2131e0c59403d7153a8fa46c9a1d84e5cd10af505793e49e3da22d3a52e66\"",
+    "vansh_2027": "W/\"682a61d90f33b544b2c73d54bc201617c076d81af155bddd7cc749dd01902b12\"",
     "underclassmen": "W/\"c7ea1337aa4d655757293a5f7a58e10c6dfc1d732167dd00338cfb6df83001ff\""
   },
   "seen_uids": [
