@@ -2,12 +2,12 @@
   "version": 1,
   "seeded": true,
   "seeded_at": "2026-09-09T04:40:42+00:00",
-  "last_run_at": "2026-11-15T00:09:15+00:00",
-  "runs": 337,
-  "announced_total": 6578,
+  "last_run_at": "2026-11-15T06:58:46+00:00",
+  "runs": 338,
+  "announced_total": 6579,
   "etags": {
-    "simplify_2027": "W/\"c0dc01544554f4012d72462eac62113e164e7e3715fc6ee1ee3461dc8a139ed3\"",
-    "vansh_2027": "W/\"d7ec52de3036e1d7e01e9cf570089d08f12eb2c0a7a77fb6f82f3805354b2526\"",
+    "simplify_2027": "W/\"23b58a10a0521a5b789204fbb85d5a0d15206b9d65d80418d045773cca8fe2dc\"",
+    "vansh_2027": "W/\"ec0dca1215e0eea39372ed68a681301b777685604a8b031e60c3ff8b20d4f954\"",
     "underclassmen": "W/\"c7ea1337aa4d655757293a5f7a58e10c6dfc1d732167dd00338cfb6df83001ff\""
   },
   "seen_uids": [
@@ -23147,6 +23147,7 @@
     "vansh_2027:d2362609-cc36-4fdf-8c97-53a4bf6b5bac",
     "vansh_2027:d2a8196b-f368-4521-8fc7-839ebcebdc1e",
     "vansh_2027:d345fabb-0ebc-425b-8916-18608621309c",
+    "vansh_2027:d37a6117-143b-4ac2-bea0-2925e48530dd",
     "vansh_2027:d3912072-9779-4617-847d-906fc4744550",
     "vansh_2027:d3b06542-ab51-4b6a-a0ac-4869c2e9c530",
     "vansh_2027:d408bb8e-16e7-4f5a-b8cb-0c5ed6d24725",
@@ -36416,6 +36417,7 @@
     "operio|software engineering intern",
     "oppenheimer co inc|equities sales trading intern business segments and corporate infrastructure",
     "optimum altice usa|cloud platform engineering intern",
+    "optimum altice usa|cybersecurity operations intern",
     "optimum altice usa|devops toolchain intern",
     "optimum altice usa|qa automation engineering intern",
     "optirtc|environmental research analysis intern",
